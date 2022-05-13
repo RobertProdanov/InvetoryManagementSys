@@ -1,0 +1,8 @@
+Sale ID: 4 || Completed by user with ID: 0 || Date of completing 14/03/2022 17:40 || Sale cost: 2.0 || Sold product/s ID/s ,4,5 || Amount of sold products ,1,1
+Sale ID: 4 || Completed by user with ID: 0 || Date of completing 18/04/2022 21:11 || Sale cost: 61.44 || Sold product/s ID/s ,7,8 || Amount of sold products ,9,3
+Sale ID: 4 || Completed by user with ID: 0 || Date of completing 05/05/2022 12:56 || Sale cost: 0.0 || Sold product/s ID/s ,3 || Amount of sold products ,1
+Sale ID: 2 || Completed by user with ID: 0 || Date of completing 05/05/2022 12:57 || Sale cost: 5.12 || Sold product/s ID/s ,9,4 || Amount of sold products ,1,2
+Sale ID: 3 || Completed by user with ID: 0 || Date of completing 05/05/2022 12:58 || Sale cost: 1.96 || Sold product/s ID/s ,8 || Amount of sold products ,2
+Sale ID: 5 || Completed by user with ID: 0 || Date of completing 05/05/2022 12:59 || Sale cost: 0.0 || Sold product/s ID/s ,4 || Amount of sold products ,3
+Sale ID: 1 || Completed by user with ID: 0 || Date of completing 05/05/2022 12:59 || Sale cost: 26.46 || Sold product/s ID/s ,7,8,9 || Amount of sold products ,2,1,4
+Sale ID: 9 || Completed by user with ID: 0 || Date of completing 05/05/2022 13:00 || Sale cost: 0.0 || Sold product/s ID/s [value-2] || Amount of sold products [value-3]

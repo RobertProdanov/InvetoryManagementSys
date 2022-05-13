@@ -1,0 +1,13 @@
+Sale ID: 0 || Created by user with ID: 0 || Date of creating 12/03/2022 14:49 || Sale cost: 5.0 || Sold product/s ID/s ,5,1,5,1 || Amount of sold products ,1,4,1,4
+Sale ID: 1 || Created by user with ID: 0 || Date of creating 12/03/2022 14:54 || Sale cost: 5.0 || Sold product/s ID/s ,5,3,5,3 || Amount of sold products ,4,1,4,1
+Sale ID: 2 || Created by user with ID: 0 || Date of creating 12/03/2022 14:55 || Sale cost: 6.0 || Sold product/s ID/s ,5,4,5,6,5,4,5,6 || Amount of sold products ,3,1,1,1,3,1,1,1
+Sale ID: 3 || Created by user with ID: 0 || Date of creating 12/03/2022 15:03 || Sale cost: 4.0 || Sold product/s ID/s ,6,3,6,3,6,3,6,3,6,3 || Amount of sold products ,3,1,3,1
+Sale ID: 4 || Created by user with ID: 0 || Date of creating 12/03/2022 15:12 || Sale cost: 2.0 || Sold product/s ID/s ,4,5 || Amount of sold products ,1,1
+Sale ID: 1 || Created by user with ID: 0 || Date of creating 17/04/2022 22:54 || Sale cost: 26.46 || Sold product/s ID/s ,7,8,9 || Amount of sold products ,2,1,4
+Sale ID: 2 || Created by user with ID: 0 || Date of creating 17/04/2022 22:55 || Sale cost: 5.12 || Sold product/s ID/s ,9,4 || Amount of sold products ,1,2
+Sale ID: 3 || Created by user with ID: 0 || Date of creating 17/04/2022 22:57 || Sale cost: 1.96 || Sold product/s ID/s ,8 || Amount of sold products ,2
+Sale ID: 4 || Created by user with ID: 0 || Date of creating 17/04/2022 22:57 || Sale cost: 61.44 || Sold product/s ID/s ,7,8 || Amount of sold products ,9,3
+Sale ID: 4 || Created by user with ID: 0 || Date of creating 05/05/2022 11:26 || Sale cost: 0.0 || Sold product/s ID/s ,3 || Amount of sold products ,1
+Sale ID: 5 || Created by user with ID: 0 || Date of creating 05/05/2022 11:31 || Sale cost: 0.0 || Sold product/s ID/s ,4 || Amount of sold products ,3
+Sale ID: 1 || Created by user with ID: 0 || Date of creating 11/05/2022 14:44 || Sale cost: 3.56 || Sold product/s ID/s ,1 || Amount of sold products ,4
+Sale ID: 3 || Created by user with ID: 1 || Date of creating 13/05/2022 13:01 || Sale cost: 5.0 || Sold product/s ID/s ,2 || Amount of sold products ,1

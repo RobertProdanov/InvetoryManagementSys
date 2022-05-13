@@ -1,0 +1,6 @@
+Main-Class: src\App
+
+Class-Path: D:\InventoryManagementSys\.idea\libraries\mysql_connector_java_8_0.jar
+
+<blank line>
+

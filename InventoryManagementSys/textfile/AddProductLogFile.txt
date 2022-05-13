@@ -1,0 +1,10 @@
+# Product Name='Mlqko vereq', Product Quantity=12, Product Description='mlqko', Product Price=1.4, Category='', Product ID='16' Date of adding: 07/03/2022 10:42 Added by user with id: 0
+# Product Name='koka kola 500ml', Product Quantity=36, Product Description='gazirano', Product Price=0.98, Category='napitki', Product ID='18' Date of adding: 07/03/2022 10:43 Added by user with id: 0
+Product: Product Name: Cigari, Product Quantity: 3, Product Description: herherhre, Product Price: 4.2, Category: fasove, ID: 6 Date of adding: 10/04/2022 11:42 Added by user with id: 0
+Product: Product Name: htrhrh, Product Quantity: 4, Product Description: , Product Price: 6.5, Category: bgbhth, ID: 7 Date of adding: 10/04/2022 12:04 Added by user with id: 0
+Product: Product Name: Fanta 500ml, Product Quantity: 12, Product Description: , Product Price: 0.98, Category: Napitka, ID: 8 Date of adding: 10/04/2022 12:06 Added by user with id: 0
+Product: Product Name: Burger, Product Quantity: 10, Product Description: polugotov burger, Product Price: 3.12, Category: hrana, ID: 9 Date of adding: 10/04/2022 12:08 Added by user with id: 0
+Product: Product Name: Svinsko meso, Product Quantity: 10, Product Description: meso, Product Price: 5.5, Category: , ID: 9 Date of adding: 04/05/2022 10:38 Added by user with id: 0
+Product: Product Name: Meso, Product Quantity: 4, Product Description: wg, Product Price: 4.5, Category: , ID: 10 Date of adding: 04/05/2022 18:15 Added by user with id: 0
+Product: Product Name: Koka kola 500ml, Product Quantity: 12, Product Description: gazirano, Product Price: 0.89, Category: gazirano, ID: 1 Date of adding: 11/05/2022 13:53 Added by user with id: 0
+Product: Product Name: wg, Product Quantity: 12, Product Description: ggg, Product Price: 5.0, Category: wg, ID: 2 Date of adding: 11/05/2022 13:57 Added by user with id: 0
